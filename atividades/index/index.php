@@ -9,8 +9,3 @@ $programar = new Programador("Diego","PHP");
 echo $programar->getNome();
 
 echo $programar::ESPECIE;
-
-
-teste
-
-
